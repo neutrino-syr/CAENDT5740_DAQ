@@ -8,4 +8,4 @@ A data acquisition software for CAEN DT5740 digitizer
 - Python packages:
     - Numpy
     - Mathplotlib
-    - caen_felib (with DIG 1)
+    - caen_felib with DIG 1 (`pip install caen-felib`)
