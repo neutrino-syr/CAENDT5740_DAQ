@@ -3,7 +3,7 @@ A data acquisition software for CAEN DT5740 digitizer
 
 
 *Software Requirements*
-- Windows comupter (This has not been tested on any other operating systems)
+- Jupyter notebook
 - Python 3.6 or above
 - Python packages:
     - Numpy
